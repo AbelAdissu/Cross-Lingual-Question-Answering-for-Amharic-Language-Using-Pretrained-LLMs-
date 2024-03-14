@@ -104,10 +104,6 @@ This project aims to enhance the accuracy of Amharic text generation, and there 
 5. **Reviewing Performance Enhancement Techniques**: Keeping up with the latest research advancements and exploring techniques to further enhance the accuracy of fine-tuned large language models for low-resource languages.
 
 
-## **CONTACT** 📧
-**Bezawit Abebaw**: https://www.linkedin.com/in/bezawit-tekeba/
-
-**Biruk Abere**: https://www.linkedin.com/in/biruk-abere-ambaw-479aba215/
 
 ### 📂 **Project Link** 
 
